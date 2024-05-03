@@ -1,3 +1,4 @@
 # puneet-own-project
-this is my first repository.
+This is My first Github Repository.
+<br>
 Author-PUNEET TIWARI
